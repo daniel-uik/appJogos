@@ -1,4 +1,4 @@
-# Site de Jogos com Lista de Jogos e Modal de Detalhes
+# Site de Jogos com Lista e Modal de Detalhes
 
 Este é um aplicativo de exemplo em React Native que exibe uma lista de jogos e permite visualizar detalhes de cada jogo em um modal.
 
