@@ -6,7 +6,7 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "react-scripts start --config ./web/config-overrides.js",
+    "web": "expo start --web",
     "eject": "expo eject"
   },
   "dependencies": {
